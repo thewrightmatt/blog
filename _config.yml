@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Bracia
+title: thewrightmatt's blog
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Bracia is a simple personal blog theme for Jekyll.
+description: Matt's blog 'n thoughts
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "thewrightmat.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
-  name: Steve Kolinsky
+  name: Matt Wright
   title: Hey, I’m Steve Kolinsky!
-  description: I am a Senior Software Engineer. My passion lies in Full stack enterprise application development which I approach with an entrepreneurial mindset.
+  description: I am a dude. Give me a beer, some soccer to watch, my cat and we're all set!
   image: '/images/01.jpg'
   avatar: '/images/01-1.jpg'
 
