@@ -16,10 +16,12 @@ author:
   avatar: '/images/01-1.jpg'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-github", label: Github, link: "https://github.com"}
-- {icon: "ion-logo-mastodon", label: Mastodon, link: "https://infosec.exchange"} 
-- {icon: "ion-logo-linkedin", label: LinkedIn, link: "https://linkedin.com"}
+- {icon: "logo-twitter", label: Twitter, link: "https://twitter.com"}
+- {icon: "logo-facebook", label: Facebook, link: "https://facebook.com"}
+- {icon: "logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
+- {icon: "logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
+- {icon: "logo-instagram", label: Instagram, link: "https://instagram.com"}
+- {icon: "logo-github", label: Github, link: "https://github.com"}
 
 # Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 # Other icons can be found at https://ionicons.com/v4/
