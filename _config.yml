@@ -17,10 +17,7 @@ author:
 
 social:
 - {icon: "logo-twitter", label: Twitter, link: "https://twitter.com"}
-- {icon: "logo-facebook", label: Facebook, link: "https://facebook.com"}
-- {icon: "logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
-- {icon: "logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "logo-instagram", label: Instagram, link: "https://instagram.com"}
+- {icon: "logo-mastodon", label: Mastodon, link: "https://infosec.exchange/@thewrightmatt"}
 - {icon: "logo-github", label: Github, link: "https://github.com"}
 
 # Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
