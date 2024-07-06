@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turkey Express Mini CTF Write up 
-description:  got an email from AntiSyphon (after having attended some of their training classes) that they were having a mini CTF. I've written this after capturing almost all the flags, which I probably won't do next time as this is taking much longer as I'm running through all the steps again to make sure the write-up is accurate.
+description: I got an email from AntiSyphon that they were having a mini CTF. This post is how I got most of the flags.
 date:   2022-11-22 15:00:00 -0600 
 image:  '/images/2022/11/22/header.jpg'
 tags:   [ctf, security]
@@ -82,6 +82,8 @@ The next time I worked on it, I went ahead and explored the rest of the code via
 ~~~
 "Thank you for filling out the survey, we appreciate you feedback!\nHere is you gift card code: MetaCTF{so_whos_going_to_report_this_bug_to_google}"
 ~~~
+
+---
 
 ## Diving Into the Announcement - 200 points
 
