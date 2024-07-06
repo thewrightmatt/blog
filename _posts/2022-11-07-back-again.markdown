@@ -2,7 +2,7 @@
 layout: post
 title:  Back Again
 description: Also my old Professor Fransworth would say, 'Good news everyone!' After leaving an old instance of my blog up on DigitalOcean...
-date:   2022-11-107 15:00:00 -0600 
+date:   2022-11-07 15:00:00 -0600 
 image:  '/images/2022/11/header.jpg'
 tags:   [blog, certs]
 ---
