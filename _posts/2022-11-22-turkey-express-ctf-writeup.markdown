@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turkey Express Mini CTF Write up 
-description: I got an email from AntiSyphon that they were having a mini CTF. This post is how I got most of the flags.
+description: I got an email from AntiSyphon that they were having a mini CTF. This post is how I got (all but one of) the flags.
 date:   2022-11-22 15:00:00 -0600 
 image:  '/images/2022/11/22/header.jpg'
 tags:   [ctf, security]
