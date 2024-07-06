@@ -19,6 +19,7 @@ While I really like the sleekness of Ghost, I wanted to migrate my blog to somet
 
 Now, hopefully once I get this post up I'll be done using the subdomain and fully migrated over to thewrightmatt.com.
 
+I also want to try spinning up a local instance of Ghost to eventually start up a gaming fan site. Having placed more with Docker, I think I may be able to self-host at least as a trial run before potentially having to purchase hosting (again).
 
 ## To Do
 One of my complaints with Ghost (though looking back maybe it was Ghost and Firefox?) was that spellcheck would only work half the time. Now with these posts being build by GitHub Actions, I should be able to [take a cue from this blog](https://swild.dev/self-hosting/github-spellcheck-lint-action/) and integrate spellcheck into the process.
@@ -30,8 +31,9 @@ Last up I need to see if there's a way to fix the 'pages' automatically getting 
 ## One Last Thing
 In keeping with tradition, I did get a new certificate (well, really I just renewed it). Terraform Associate 003! Mostly just for work, next up will be some Github certifications to help with my most recent job title.
 
-
 {:refdef: style="text-align: center;"}
 ![Terraform Associate]({{site.baseurl}}/images/2024/7/tf-assc.png)
 *Behold!*
 {: refdef}
+
+As always, there's much more going on in life but that's all for now.
