@@ -83,7 +83,7 @@ The next time I worked on it, I went ahead and explored the rest of the code via
 "Thank you for filling out the survey, we appreciate you feedback!\nHere is you gift card code: MetaCTF{so_whos_going_to_report_this_bug_to_google}"
 ~~~
 
----
+* * *
 
 ## Diving Into the Announcement - 200 points
 
@@ -143,11 +143,14 @@ I had two thoughts on this one – the weird string may have been encoded someho
 F^mY;L?t24Zk.m^-hnWl,[l)[ku
 ~~~
 
+
 I threw this in Cyberchef and tried a variety of combinations to no avail. I spent a good amount of time trying to decipher this one without any luck. I also thought it may have potentially been a passcode used for the provided files.
 
 > The SOC team has provided an [archive](https://metaproblems.com/4aab445f1b4caf923c6e2493811e7b3f/king_to_queen_3.zip)
 
-So I thought something may have been encoded in the png's within the zip. I [binwalk](https://www.kali.org/tools/binwalk/)'d them all, repeatedly without any use. I also tried to check to check the [file](https://www.man7.org/linux/man-pages/man1/file.1.html) type if there was anything else as well as [hexdumping](https://www.systutorials.com/docs/linux/man/1-xxd/) them without any luck as well. Some other bits I tried when I was really grasping at straws was to decode the png's to Base64 and try some wizardry with those as well as importing the png's into Wireshark. Yeah, I didn't know that would work either until I was doing some research, but it was a worth a shot though it didn't help any. the dimensions weren't consistent on all the images as well so I thought may have been a lead but alas, nothing.
+So I thought something may have been encoded in the png's within the zip. I [binwalk](https://www.kali.org/tools/binwalk/)'d them all, repeatedly without any use. I also tried to check to check the [file](https://www.man7.org/linux/man-pages/man1/file.1.html) type if there was anything else as well as [hexdumping](https://www.systutorials.com/docs/linux/man/1-xxd/) them without any luck as well. Some other bits I tried when I was really grasping at straws was to decode the png's to Base64 and try some wizardry with those as well as importing the png's into Wireshark. 
+
+Yeah, I didn't know that would work either until I was doing some research, but it was a worth a shot though it didn't help any. the dimensions weren't consistent on all the images as well so I thought may have been a lead but alas, nothing.
 
 ### Answer
-Coming soon, probably
+Coming soon, *probably...*
