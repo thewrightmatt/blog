@@ -9,9 +9,9 @@ tags:   [blog, certs, aws]
 
 Good news, I finally got a new cert that's relevant to my career. It's the AWS Cloud Practioner so it's pretty entry level but it is a step forward (and keeps my manager happy). 
 
-<div align="center">
+{:refdef: style="text-align: center;"}
 ![AWS Cloud Practitioner]({{site.baseurl}}/images/2020/2/aws-ccp.png)
-</div>
+{: refdef}
 
 The next two goals for myself, certification wise anyway, is to get the RHCSA and then an associate level AWS certification in that order. While it would probably be smarter to continue learning the same subject (albeit more advanced) while it's fresh on the mind, the RHCSA exam is more interesting to me and I think has more practical knowledge that I can use depending on my next job. Not to mention I have a couple of servers running Linux at home that I can use to practice with for the exam... Which reminds me that I need to create another post talking about my homelab since I 86'd the old site... Which also reminds me that I need to keep working on this site as well. 
 
