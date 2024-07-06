@@ -9,8 +9,6 @@ tags:   [certs]
 
 The quarantine continues as does the studying. I saw a coworker get an easy certification for Azure and after a quick talk with him it didn't sound to difficult so I decided to give it a shot as well. After a week and a half of studying, I was able to remotely take a certification test and pass!
 
-Behold!
-
 {:refdef: style="text-align: center;"}
 ![Azure Fundamentals]({{site.baseurl}}/images/2020/8/azure.png)
 *Behold!*
