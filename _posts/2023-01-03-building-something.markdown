@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turkey Express Mini CTF Write up 
+title: Building Something
 description: Usually anything I build is virtual - a server or three for work or a service at home to make some automation easier. Lately, I've been able to do both!
 date:   2023-01-03 15:00:00 -0600 
 image:  '/images/2023/header.jpg'
