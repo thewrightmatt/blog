@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Getting Static
-description: Taking a step backward to take a few steps forward. Rather than using a fancy CMS, I'm back to using static pages built with some magic.
-date:   2024-07-07 15:00:00 -0600 
+title: Latest Reading - Cult of the Dead Cow by Joseph Menn
+description: T
+date:   2023-01-03 15:00:00 -0600 
 image:  '/images/2024/7/header.jpg'
 tags:   [blog]
 ---
