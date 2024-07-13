@@ -1,5 +1,11 @@
 # Basic Online Security
 
+## The "Too Long; Didn't Read" Bit
+Use 2FA,
+Use a password management tool (also with 2FA*)
+Email forwarders
+
+
 I replied to someone a while ago on Reddit asking how they should protect their online identities after one of their accounts was accessed by someone. I figure a write-up would help friends and family that stumble across my site (or if I'm lazy I can point them here if asked). The quick and dirty? Use a password manager, enable multi-factor auth where possible and check your email address against haveibeenpwned.com. So what the hell does that mean? Read on.
 
 I'm by no means a security professional but I do try to follow best practices where possible and stay well read on the subject. I've tried to keep things simple for the most part so if you're well read on the topic of security and want to yell at me for suggesting SMS as an alternative to installing an authenticator app, I get that it's not great but certainly better than solely relying on a password. But this that said, if there's anything that would be detrimental to someone by all means let me know!
