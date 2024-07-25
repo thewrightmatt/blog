@@ -2,8 +2,8 @@
 layout: post
 title: Latest Reading - Cult of the Dead Cow by Joseph Menn
 description: No, it's not really a cult, just an OG hacking group. Okay, maybe a cult (but not really, I swear).
-date:   2024-07-23 17:48:00 -0500 
-image:  '/images/2024/7/23/header.png'
+date:   2024-07-25 17:48:00 -0500 
+image:  '/images/2024/7/25/header.png'
 tags:   [blog, books]
 ---
 
@@ -25,7 +25,12 @@ This book talks about the forefathers of hacking and computer security. Names yo
 
 Previously I've run across names on Twitter of people who I'd see repeatedly retweeted or quoted and knew they were *someone* to be known but never really figured out how they rose to popularity. Reading through cDc opened up my eyes to who these people were and how they came to be such popular figures, as well as the tremendous work some have done in the past. It was almost embarrassing the number names I recognized, but had no clue of their past contributions.
 
-I highly recommend this book to anyone looking to better understand the hacking scene and a bit of it's origin. Shit, it should be required reading when downloading some tools often found on Kali.
+I highly recommend this book to anyone looking to better understand the hacking scene and a bit of it's origin. Hell, it should be required reading when downloading some tools often found on Kali.
+
+### More on the book
+I only recently discovered the author was a part of the "Talks at Google", where it talks more about the book, how it came to be and even a little bit about himself.
+
+<p><iframe src="https://www.youtube.com/embed/QvZuAwLIsEo" frameborder="0" allowfullscreen></iframe></p>
 
 ## Doesn't Hurt to Ask
 Eons ago (or at least what feels like it) I read a book from an entrepreneur that I picked up at a school book fair. In the book, the author recounted their years growing up and different ways they made money creatively through the years. While I've forgotten almost everything about the book (except that it mentioned making money on Beanie Babies, if that gives you any idea how old it is) there was one story that talked about how they received an upgrade for a room by writing the CEO at the time and getting an upgrade later when they checked into the hotel. 
@@ -40,15 +45,15 @@ One day on Mastodon I reached out to Joseph (the author) asking if there were si
 
 After plucking up the courage to reach out, I sent Joseph an email asking for an autographed copy, offering to reimburse him the cost and stating I wasn't a crazy person trying to get his address. Luckily for me I do know a reporter at The Post courtesy of my partner, who could verify that I wasn't (that) crazy. After a little bit of back and forth, I was able to get one of the last hardcovers, ever!
 
-It's one of my most prized possessions. A book that I really enjoyed about hacking but that's also extremely informative, from the author who is a journalist (a job that I really revere, especially nowadays).
+It's one of my most prized possessions. A book that I really enjoyed about hacking but that's also extremely informative, from the author and journalist (a job that I really revere, especially nowadays).
 
-![CDC Signed](/images/2024/7/23/cdc.jpg)
+![CDC Signed](/images/2024/7/25/cdc.jpg)
 - *Behold!*
 
 ## Another Good Hacking Book
-One of my favorite books I've read related to hacking is [The Cuckoo's Egg](https://www.barnesandnoble.com/w/cuckoos-egg-clifford-stoll/1120046107?ean=9780307819420). It talks about an astronomer turned sysadmin turned cyber detective after finding out some spare computer cycles on an old unix machine. I cannot recommend this book enough.
+One of my favorite books I've read, related to hacking, is [The Cuckoo's Egg](https://www.barnesandnoble.com/w/cuckoos-egg-clifford-stoll/1120046107?ean=9780307819420). It talks about an astronomer turned sysadmin turned cyber detective after finding out some spare computer cycles on an old unix machine. I cannot recommend this book enough, it's not only a great tech book but also a pretty good investigative thriller.
 
 ### Future Books to read
-* DarkWire
-* Fatal System Error
-* If It's Smart, It's Vulnerable
+* [DarkWire](https://www.404media.co/dark-wire-inside-a-kidnapping-planned-on-the-fbis-secret-chat-app/)
+* [Fatal System Error](https://en.wikipedia.org/wiki/Fatal_System_Error)
+* [If It's Smart, It's Vulnerable](https://www.ifitssmartitsvulnerable.com/)
