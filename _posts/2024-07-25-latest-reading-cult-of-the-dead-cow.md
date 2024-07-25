@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Latest Reading - Cult of the Dead Cow by Joseph Menn
+title: Latest Reading - Cult of the Dead Cow
 description: No, it's not really a cult, just an OG hacking group. Okay, maybe a cult (but not really, I swear).
-date:   2024-07-25 17:00:00 -0500 
-image:  '/images/2024/7/25/header.png'
-tags:   [blog, books]
+date: 2024-07-25 17:00:00 -0500
+image: '/images/2024/7/25/header.png'
+tags: [blog, books]
 ---
 
 # What's this about a dead cow?
@@ -32,7 +32,7 @@ I only recently discovered the author was a part of the "Talks at Google", where
 
 <p><iframe src="https://www.youtube.com/embed/QvZuAwLIsEo" frameborder="0" allowfullscreen></iframe></p>
 
-## Doesn't Hurt to Ask
+## Doesn't hurt to ask
 Eons ago (or at least what feels like it) I read a book from an entrepreneur that I picked up at a school book fair. In the book, the author recounted their years growing up and different ways they made money creatively through the years. While I've forgotten almost everything about the book (except that it mentioned making money on Beanie Babies, if that gives you any idea how old it is) there was one story that talked about how they received an upgrade for a room by writing the CEO at the time and getting an upgrade later when they checked into the hotel. 
 
 I gotta note that I hate the idea of going through life like one of those people who always says "it doesn't hurt to ask" and then ask for an upgrade on every single minor thin that crosses their mind, but sometimes when there's something you would really like to take a shot at, it really doesn't hurt to ask. (This is coming from someone who hates asking for help, asking a question or anything else you can think of. I'm the type to die choking in a restaurant than ask for help and somehow be noticed.) 
@@ -52,10 +52,10 @@ It's one of my most prized possessions. A book that I really enjoyed about hacki
 *Behold!*
 {: refdef}
 
-## Another Good Hacking Book
+## Another great hacking book
 One of my favorite books I've read, related to hacking, is [The Cuckoo's Egg](https://www.barnesandnoble.com/w/cuckoos-egg-clifford-stoll/1120046107?ean=9780307819420). It talks about an astronomer turned sysadmin turned cyber detective after finding out some spare computer cycles on an old unix machine. I cannot recommend this book enough, it's not only a great tech book but also a pretty good investigative thriller.
 
-### Future Books to read
+### Future books to read
 * [DarkWire](https://www.404media.co/dark-wire-inside-a-kidnapping-planned-on-the-fbis-secret-chat-app/)
 * [Fatal System Error](https://en.wikipedia.org/wiki/Fatal_System_Error)
 * [If It's Smart, It's Vulnerable](https://www.ifitssmartitsvulnerable.com/)
