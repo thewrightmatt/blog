@@ -2,7 +2,7 @@
 layout: post
 title: Latest Reading - Cult of the Dead Cow by Joseph Menn
 description: No, it's not really a cult, just an OG hacking group. Okay, maybe a cult (but not really, I swear).
-date:   2024-07-25 17:48:00 -0500 
+date:   2024-07-25 17:00:00 -0500 
 image:  '/images/2024/7/25/header.png'
 tags:   [blog, books]
 ---
@@ -47,8 +47,10 @@ After plucking up the courage to reach out, I sent Joseph an email asking for an
 
 It's one of my most prized possessions. A book that I really enjoyed about hacking but that's also extremely informative, from the author and journalist (a job that I really revere, especially nowadays).
 
+{:refdef: style="text-align: center;"}
 ![CDC Signed](/images/2024/7/25/cdc.jpg)
-- *Behold!*
+*Behold!*
+{: refdef}
 
 ## Another Good Hacking Book
 One of my favorite books I've read, related to hacking, is [The Cuckoo's Egg](https://www.barnesandnoble.com/w/cuckoos-egg-clifford-stoll/1120046107?ean=9780307819420). It talks about an astronomer turned sysadmin turned cyber detective after finding out some spare computer cycles on an old unix machine. I cannot recommend this book enough, it's not only a great tech book but also a pretty good investigative thriller.
