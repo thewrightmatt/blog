@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Latest Reading - Cult of the Dead Cow by Joseph Menn
+title:  Latest Reading - cDc by Joseph Menn
 description: No, it's not really a cult, just an OG hacking group. Okay, maybe a cult (but not really, I swear).
-date:   2024-07-25 17:00:00 -0500 
+date:   2024-07-25 17:00:00 -0500
 image:  '/images/2024/7/25/header.png'
 tags:   [blog, books]
 ---
