@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Latest Reading - Cult of the Dead Cow
+title: Latest Reading - Cult of the Dead Cow
 description: No, it's not really a cult, just an OG hacking group. Okay, maybe a cult (but not really, I swear).
-date:   2024-07-25 17:00:00 -0500
-image:  '/images/2024/7/25/header.png'
-tags:   [blog, books]
+date: 2024-07-25 17:00:00 -0500
+image: '/images/2024/7/25/header.png'
+tags: [blog, books]
 ---
 
 # What's this about a dead cow?
