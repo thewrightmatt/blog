@@ -7,7 +7,7 @@ image:  '/images/2022/11/header.jpg'
 tags:   [blog, certs]
 ---
 
-Also my old Professor Fransworth would say, 'Good news everyone!' After leaving an old instance of my blog up on DigitalOcean, I've finally migrated it over to LightSail seeing as how the Bitnami install for Ghost works better than it has in the past. LightSail is a little bit cheaper and I'll have a smaller footprint now, plus the worst case I can migrate this over to an EC2 instance. Downside is I gotta get another theme working, the installer isn't the latest and greatest along with the fact the upgrade process isn't stellar.
+Also my old Professor Farnsworth would say, 'Good news everyone!' After leaving an old instance of my blog up on DigitalOcean, I've finally migrated it over to LightSail seeing as how the Bitnami install for Ghost works better than it has in the past. LightSail is a little bit cheaper and I'll have a smaller footprint now, plus the worst case I can migrate this over to an EC2 instance. Downside is I gotta get another theme working, the installer isn't the latest and greatest along with the fact the upgrade process isn't stellar.
 
 ## Of what's been going on...
 
