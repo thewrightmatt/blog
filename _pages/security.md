@@ -12,10 +12,32 @@ I'm by no means a security professional but I do try to follow best practices wh
 
 ## Multifactor Authentication (MFA or 2FA)
 
-Mutlifactor is exactly what it says is is, an additional authentication method when logging into a website. Ever get a text asking you to enter in a code from a website after you log in for the first time after a while? Bam, 2FA. It's not the best implementation ever, but it certainly should help make your account a little more secure.
+Multifactor is exactly what it says is is, an additional authentication method when logging into a website. Ever get a text asking you to enter in a code from a website after you log in for the first time after a while? Bam, 2FA. It's not the best implementation ever, but it certainly should help make your account a little more secure.
 
 Ideally it uses two methods of authentication - something you know (a password), something you have (OTP aka an app on your phone), something you are (a fingerprint) and so on. That way if your password gets stolen somehow, the second method of authentication should prevent any fraudulent attempts to access an account. It's typically a bad practice to use the same type of authentication twice (most usually something you know, using a password and then a 'What street did you grow up on.' Both are something you know plus 'What street did you grow up on' is a bad question to answer, more on that later)
 
 'That's all great Matt, but how and where do I get started?' 
 
 First thing's first, the site will need to have the option of enabling multifactor auth for your account. https://twofactorauth.org/
+
+### Authy
+### Google Authenticator
+### Built-in iPhone
+### Wirecutter Recommends + others
+
+## Password Managers
+1Password
+Bitwarden
+ProtonPass
+WireCutter recommends + others
+
+
+# Extra Credit
+
+## Email Hiding Service / Email Forwarders
+DDG
+ProtonPass
+Apple's Hide My Email
+
+## 
+Privacy.com
